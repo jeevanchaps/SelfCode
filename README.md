@@ -37,7 +37,7 @@ Performance of the models with textual features
 | Logistic Regression | 0.30 | 0.27 | 0.25 | 36.91% |
 | Decision Tree | 0.30 | 0.277 | 0.29 | 33.24% |
 | Support Vector Machine | 0.18 | 0.21 | 0.15 | 30.69% |
-| Logistic Regression | 0.36 | 0.35 | 0.32 | 37.93% |
+| Naive Bayes | 0.36 | 0.35 | 0.32 | 37.93% |
 
 Performance of the models with textual features and semantic similarity score from SentenceBERT
 
@@ -46,5 +46,5 @@ Performance of the models with textual features and semantic similarity score fr
 | Logistic Regression | 0.37 | 0.37 | 0.36 | 47.31% |
 | Decision Tree | 0.32 | 0.33 | 0.32 | 37.25% |
 | Support Vector Machine | 0.18 | 0.21 | 0.15 | 30.92% |
-| Logistic Regression | 0.43 | 0.41 | 0.40 | 46.40% |
+| Naive Bayes | 0.43 | 0.41 | 0.40 | 46.40% |
 
