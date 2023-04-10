@@ -30,7 +30,7 @@ experts. We also present a baseline automated assessment model which relies on a
 
 ## Baseline Model Results
 
-Performance of the models with textual features
+Performance of the models with textual features (M1)
 
 | Models | Precision | Recall | F1-score | Accuracy |
 | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Performance of the models with textual features
 | Support Vector Machine | 0.18 | 0.21 | 0.15 | 30.69% |
 | Naive Bayes | 0.36 | 0.35 | 0.32 | 37.93% |
 
-Performance of the models with textual features and semantic similarity score from SentenceBERT
+Performance of the models with textual features and semantic similarity score from SentenceBERT (M2)
 
 | Models | Precision | Recall | F1-score | Accuracy |
 | --- | --- | --- | --- | --- |
@@ -47,4 +47,11 @@ Performance of the models with textual features and semantic similarity score fr
 | Decision Tree | 0.32 | 0.33 | 0.32 | 37.25% |
 | Support Vector Machine | 0.18 | 0.21 | 0.15 | 30.92% |
 | Naive Bayes | 0.43 | 0.41 | 0.40 | 46.40% |
+
+Confusion Matrix for M1 and M2 
+
+![confusion_m1](https://user-images.githubusercontent.com/10882985/230940385-0fc051e0-d261-4207-bb06-69bad4cd7b0c.png "M1 confusion matrix")
+
+![confusion_m2](https://user-images.githubusercontent.com/10882985/230940485-13d9ef1f-46fc-4176-a6f1-060f263bd03b.png "M2 confusion matrix")
+
 
