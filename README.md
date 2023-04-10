@@ -10,13 +10,13 @@ SelfCode which consists of 1,771 sentence pairs of student and expert self-expla
 experts. We also present a baseline automated assessment model which relies on a set of textual features.
 
 ## Data Set Example
-| Student Explanation | ExpertExplanation | Annotation Score |
-| --- | --- | ---|
-| Declares the array we want to use for our assignment | We initialize the array of type int to hold the specified numbers. | 4 |
-| variable decleration: declares the number we are trying to divide | We could initialize it to any positive integer greater than 1. | 1 |
-| if the loop condition is true, then we increment the divisor by 1 | When the divisor is not a factor of the number, we increment the variable divisor by 1. | 3 |
-| Get the number entered by the user. | We read the seconds by calling the nextInt() method because this input is an integer. | 2 |
-| Ask the user to enter an integer. | We prompt the user to enter an integer.| 5 |
+| Line of Code | Student Explanation | ExpertExplanation | Annotation Score |
+| --- | --- | ---| --- |
+| int [] arr = { 1, 2, 3}; | Declares the array we want to use for our assignment | We initialize the array of type int to hold the specified numbers. | 4 |
+| int num = 15; | variable decleration: declares the number we are trying to divide | We could initialize it to any positive integer greater than 1. | 1 |
+|  divisor += 1; | if the loop condition is true, then we increment the divisor by 1 | When the divisor is not a factor of the number, we increment the variable divisor by 1. | 3 |
+| int seconds = scan.nextInt(); | Get the number entered by the user. | We read the seconds by calling the nextInt() method because this input is an integer. | 2 |
+| System.out.println("Enter an integer: "); | Ask the user to enter an integer. | We prompt the user to enter an integer.| 5 |
 
 ## Data Set Stats
 
