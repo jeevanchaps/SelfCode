@@ -6,7 +6,7 @@ The work presented in this paper opens an opportunity to expand the scope of aut
 In code comprehension tasks, students may be asked to explain critical steps of the code. The ability to automatically assess these self-explanations offers a unique 
 opportunity to understand the current state of student knowledge, recognize possible misconceptions, and provide feedback. Annotated datasets are needed to train 
 Artificial Intelligence/Machine Learning approaches for the automated assessment of student explanations. To answer this need, we present a novel corpus called 
-SelfCode which consists of 1,771 sentence pairs of student and expert self-explanations of JAVA code examples along with semantic similarity judgments provided by 
+SelfCode which consists of 1,770 sentence pairs of student and expert self-explanations of JAVA code examples along with semantic similarity judgments provided by 
 experts. We also present a baseline automated assessment model which relies on a set of textual features.
 
 ## Data Set Example
@@ -25,7 +25,7 @@ experts. We also present a baseline automated assessment model which relies on a
 | 1 | 529 |
 | 2 | 507 |
 | 3 | 419 |
-| 4 | 256 |
+| 4 | 253 |
 | 5 | 62 |
 
 ## Baseline Model Results
