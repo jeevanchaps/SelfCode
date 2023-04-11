@@ -57,7 +57,7 @@ Confusion Matrix for M1 and M2
 # Cite Our Work
 If you use the SelfCode data set, please cite [our publication](https://journals.flvc.org/): 
 ```bibtex
-@inproceedings{chapagain2022self,
+@inproceedings{chapagain2022selfcode,
   title={SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-explanation during Source Code Comprehension},
   author = { Chapagain, Jeevan and Risha, Zak and Banjade, Rabin and Oli, Priti and Tamang, Lasang and Brusilovsky, Peter and Rus, Vasile },
   booktitle={The International FLAIRS Conference Proceedings},
