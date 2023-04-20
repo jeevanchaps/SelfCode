@@ -10,7 +10,7 @@ SelfCode which consists of 1,770 sentence pairs of student and expert self-expla
 experts. We also present a baseline automated assessment model which relies on a set of textual features.
 
 ## Data Set Example
-| Line of Code | Student Explanation | ExpertExplanation | Annotation Score |
+| Line of Code | Crowd Sourced Explanation | ExpertExplanation | Annotation Score |
 | --- | --- | ---| --- |
 | int [] arr = { 1, 2, 3}; | Declares the array we want to use for our assignment | We initialize the array of type int to hold the specified numbers. | 4 |
 | int num = 15; | variable decleration: declares the number we are trying to divide | We could initialize it to any positive integer greater than 1. | 1 |
