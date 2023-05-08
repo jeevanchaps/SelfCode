@@ -55,7 +55,7 @@ Confusion Matrix for M1 and M2
 ![confusion_m2](https://user-images.githubusercontent.com/10882985/230940485-13d9ef1f-46fc-4176-a6f1-060f263bd03b.png "M2 confusion matrix")
 
 # Cite Our Work
-If you use the SelfCode data set, please cite [our publication](https://journals.flvc.org/FLAIRS/article/view/133385): 
+If you use the SelfCode data set, please cite [our publication](https://journals.flvc.org/FLAIRS/article/view/133385/137950): 
 ```bibtex
 @article{Chapagain_Risha_Banjade_Oli_Tamang_Brusilovsky_RUs,
     title = {SelfCode: An Annotated Corpus and a Model for Automated Assessment of Self-Explanation During Source Code Comprehension},
